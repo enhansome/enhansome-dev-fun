@@ -116,7 +116,7 @@
             "last_commit": "2026-08-08T20:35:18Z",
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15585
+            "stars": 15583
           }
         },
         {
@@ -130,7 +130,7 @@
             "last_commit": "2025-03-10T08:15:33Z",
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8600
+            "stars": 8598
           }
         },
         {
@@ -580,7 +580,7 @@
             "last_commit": "2024-01-31T22:40:52Z",
             "owner": "lhartikk",
             "repo": "ArnoldC",
-            "stars": 6882
+            "stars": 6880
           }
         },
         {
@@ -763,10 +763,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T12:54:20Z",
+            "last_commit": "2026-08-17T09:12:39Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189221
+            "stars": 189216
           }
         },
         {
@@ -794,7 +794,7 @@
             "last_commit": "2023-12-04T14:41:06Z",
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11698
+            "stars": 11700
           }
         },
         {
@@ -864,7 +864,7 @@
             "last_commit": "2024-06-11T23:15:48Z",
             "owner": "mtoyoda",
             "repo": "sl",
-            "stars": 3327
+            "stars": 3328
           }
         },
         {
@@ -878,7 +878,7 @@
             "last_commit": "2024-08-12T05:25:41Z",
             "owner": "pipeseroni",
             "repo": "pipes.sh",
-            "stars": 3011
+            "stars": 3013
           }
         },
         {
@@ -1038,7 +1038,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65632
+            "stars": 65636
           }
         },
         {
@@ -1052,7 +1052,7 @@
             "last_commit": "2026-02-27T07:23:49Z",
             "owner": "auchenberg",
             "repo": "volkswagen",
-            "stars": 15460
+            "stars": 15459
           }
         },
         {
@@ -1086,7 +1086,7 @@
             "last_commit": "2019-07-02T11:23:43Z",
             "owner": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
             "repo": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-            "stars": 10568
+            "stars": 10565
           }
         },
         {
@@ -1184,7 +1184,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:22:18.967Z",
+    "last_updated": "2026-08-17T14:27:06.894Z",
     "original_repository": "mislavcimpersak/awesome-dev-fun",
     "original_repository_sha": "c7407753f6ee15ffa3bcf16901a61f10b81f72c3",
     "enhanced_repository": "enhansome/enhansome-dev-fun",
