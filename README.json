@@ -144,7 +144,7 @@
             "last_commit": "2020-06-26T15:20:00Z",
             "owner": "tholman",
             "repo": "elevator.js",
-            "stars": 6639
+            "stars": 6638
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2019-05-10T17:38:38Z",
             "owner": "tessalt",
             "repo": "echo-chamber-js",
-            "stars": 4107
+            "stars": 4108
           }
         },
         {
@@ -763,10 +763,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-17T09:12:39Z",
+            "last_commit": "2026-08-17T21:45:08Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189216
+            "stars": 189242
           }
         },
         {
@@ -780,7 +780,7 @@
             "last_commit": "2026-08-01T14:37:51Z",
             "owner": "svenstaro",
             "repo": "genact",
-            "stars": 12167
+            "stars": 12169
           }
         },
         {
@@ -794,7 +794,7 @@
             "last_commit": "2023-12-04T14:41:06Z",
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11700
+            "stars": 11701
           }
         },
         {
@@ -808,7 +808,7 @@
             "last_commit": "2025-12-13T20:01:58Z",
             "owner": "bartobri",
             "repo": "no-more-secrets",
-            "stars": 7802
+            "stars": 7803
           }
         },
         {
@@ -864,7 +864,7 @@
             "last_commit": "2024-06-11T23:15:48Z",
             "owner": "mtoyoda",
             "repo": "sl",
-            "stars": 3328
+            "stars": 3329
           }
         },
         {
@@ -878,7 +878,7 @@
             "last_commit": "2024-08-12T05:25:41Z",
             "owner": "pipeseroni",
             "repo": "pipes.sh",
-            "stars": 3013
+            "stars": 3014
           }
         },
         {
@@ -1038,7 +1038,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65636
+            "stars": 65642
           }
         },
         {
@@ -1184,7 +1184,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:27:06.894Z",
+    "last_updated": "2026-08-18T14:33:16.620Z",
     "original_repository": "mislavcimpersak/awesome-dev-fun",
     "original_repository_sha": "c7407753f6ee15ffa3bcf16901a61f10b81f72c3",
     "enhanced_repository": "enhansome/enhansome-dev-fun",
