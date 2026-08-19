@@ -54,12 +54,12 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Java
 
-* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,780 | 🐛 546 | 🌐 Java | 📅 2024-07-15 - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
+* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,778 | 🐛 546 | 🌐 Java | 📅 2024-07-15 - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 
 ## JavaScript
 
 * [not-paid.js](https://github.com/kleampa/not-paid) ⭐ 15,584 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-08 - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
-* [jsFuck](https://github.com/aemkei/jsfuck) ⭐ 8,599 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10
+* [jsFuck](https://github.com/aemkei/jsfuck) ⭐ 8,598 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10
 * [Elevator.js](https://github.com/tholman/elevator.js) ⭐ 6,638 | 🐛 19 | 🌐 JavaScript | 📅 2020-06-26 - Finally, a "back to top" button that behaves like a real elevator.
 * [is-thirteen](https://github.com/jezen/is-thirteen) ⭐ 6,181 | 🐛 419 | 🌐 JavaScript | 📅 2026-01-29 - Check if a number is equal to 13.
 * [FuckitJS](https://github.com/mattdiamond/fuckitjs) ⭐ 4,184 | 🐛 35 | 🌐 JavaScript | 📅 2023-07-01 - JavaScript Error Steamroller.
@@ -136,10 +136,10 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## CLI
 
-* [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) ⭐ 189,264 | 🐛 599 | 🌐 Shell | 📅 2026-08-17 - A Chuck Norris fortune plugin for ZSH.
+* [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) ⭐ 189,265 | 🐛 599 | 🌐 Shell | 📅 2026-08-17 - A Chuck Norris fortune plugin for ZSH.
 * [genact](https://github.com/svenstaro/genact) ⭐ 12,173 | 🐛 16 | 🌐 Rust | 📅 2026-08-01 - 🌀 A nonsense activity generator for your shell.
 * [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,702 | 🐛 21 | 🌐 Shell | 📅 2023-12-04 - Blame someone else for your bad code.
-* [No More Secrets](https://github.com/bartobri/no-more-secrets) ⭐ 7,804 | 🐛 1 | 🌐 C | 📅 2025-12-13 - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+* [No More Secrets](https://github.com/bartobri/no-more-secrets) ⭐ 7,803 | 🐛 1 | 🌐 C | 📅 2025-12-13 - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 * [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,565 | 🐛 33 | 🌐 Ruby | 📅 2024-03-05 - Rainbows and unicorns!
 * [cmatrix](https://github.com/abishekvashok/cmatrix) ⭐ 5,207 | 🐛 84 | 🌐 C | 📅 2024-08-21 - Make it digital rain in your terminal like The Matrix.
 * [lolcommits](https://github.com/mroth/lolcommits) ⭐ 4,816 | 🐛 40 | 🌐 Ruby | 📅 2026-08-19 - Git-based selfies for software developers.
@@ -158,7 +158,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## DevOps
 
-* [No Code](https://github.com/kelseyhightower/nocode) ⭐ 65,641 | 🐛 4,718 | 🌐 Dockerfile | 📅 2024-08-07 - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+* [No Code](https://github.com/kelseyhightower/nocode) ⭐ 65,643 | 🐛 4,718 | 🌐 Dockerfile | 📅 2024-08-07 - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 * [Volkswagen](https://github.com/auchenberg/volkswagen) ⭐ 15,459 | 🐛 23 | 🌐 JavaScript | 📅 2026-02-27 - 🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 * [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) ⭐ 1,180 | 🐛 17 | 🌐 Go | 📅 2024-05-28 - The Terraform plugin for the Dominos Pizza provider.
 
