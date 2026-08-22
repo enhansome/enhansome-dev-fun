@@ -51,7 +51,7 @@
             "last_commit": "2023-09-08T09:40:31Z",
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6593
+            "stars": 6592
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-08T20:35:18Z",
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15582
+            "stars": 15583
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2025-07-19T13:49:33Z",
             "owner": "awwaiid",
             "repo": "gremllm",
-            "stars": 646
+            "stars": 645
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2019-12-04T13:55:30Z",
             "owner": "samshadwell",
             "repo": "TrumpScript",
-            "stars": 7587
+            "stars": 7586
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2021-12-15T15:42:08Z",
             "owner": "dylanbeattie",
             "repo": "rockstar",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -810,7 +810,7 @@
             "last_commit": "2026-08-20T08:43:08Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189291
+            "stars": 189307
           }
         },
         {
@@ -825,7 +825,7 @@
             "last_commit": "2026-08-01T14:37:51Z",
             "owner": "svenstaro",
             "repo": "genact",
-            "stars": 12172
+            "stars": 12173
           }
         },
         {
@@ -930,7 +930,7 @@
             "last_commit": "2024-08-12T05:25:41Z",
             "owner": "pipeseroni",
             "repo": "pipes.sh",
-            "stars": 3012
+            "stars": 3013
           }
         },
         {
@@ -1101,7 +1101,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65653
+            "stars": 65657
           }
         },
         {
@@ -1152,7 +1152,7 @@
             "last_commit": "2019-07-02T11:23:43Z",
             "owner": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
             "repo": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-            "stars": 10564
+            "stars": 10563
           }
         },
         {
@@ -1250,7 +1250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:34:39.420Z",
+    "last_updated": "2026-08-22T14:20:51.687Z",
     "original_repository": "mislavcimpersak/awesome-dev-fun",
     "original_repository_id": 81868904,
     "original_repository_sha": "c7407753f6ee15ffa3bcf16901a61f10b81f72c3",
