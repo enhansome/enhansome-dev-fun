@@ -113,6 +113,69 @@
       "items": [
         {
           "node_type": "item",
+          "title": "hackertyper",
+          "description": "\"Hack\" like a programmer in movies and games!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24823712,
+            "language": "Haskell",
+            "last_commit": "2019-03-04T16:11:39Z",
+            "owner": "fgaz",
+            "repo": "hackertyper",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Haskell"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "retina-spacer-gif",
+          "description": "Spacer gif for retina displays.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7511833,
+            "language": null,
+            "last_commit": "2013-02-08T12:11:56Z",
+            "owner": "ao5357",
+            "repo": "retina-spacer-gif",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "HTML"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FizzBuzzEnterpriseEdition",
+          "description": "A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6834703,
+            "language": "Java",
+            "last_commit": "2024-07-15T08:04:08Z",
+            "owner": "EnterpriseQualityCoding",
+            "repo": "FizzBuzzEnterpriseEdition",
+            "stars": 23787
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "not-paid.js",
           "description": "Add opacity to the body tag and increase it every day until their site completely fades away. 💸",
           "children": [],
@@ -123,7 +186,7 @@
             "last_commit": "2026-08-08T20:35:18Z",
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15583
+            "stars": 15584
           }
         },
         {
@@ -138,7 +201,7 @@
             "last_commit": "2025-03-10T08:15:33Z",
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8598
+            "stars": 8599
           }
         },
         {
@@ -153,7 +216,7 @@
             "last_commit": "2020-06-26T15:20:00Z",
             "owner": "tholman",
             "repo": "elevator.js",
-            "stars": 6639
+            "stars": 6638
           }
         },
         {
@@ -708,7 +771,7 @@
             "last_commit": "2024-11-20T09:30:34Z",
             "owner": "tomdionysus",
             "repo": "foaas",
-            "stars": 3062
+            "stars": 3063
           }
         },
         {
@@ -723,7 +786,7 @@
             "last_commit": "2023-04-13T10:06:15Z",
             "owner": "sameerkumar18",
             "repo": "corporate-bs-generator-api",
-            "stars": 352
+            "stars": 353
           }
         },
         {
@@ -807,10 +870,10 @@
             "archived": false,
             "id": 291137,
             "language": "Shell",
-            "last_commit": "2026-08-23T12:53:50Z",
+            "last_commit": "2026-08-24T06:41:53Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189321
+            "stars": 189347
           }
         },
         {
@@ -825,7 +888,7 @@
             "last_commit": "2026-08-01T14:37:51Z",
             "owner": "svenstaro",
             "repo": "genact",
-            "stars": 12176
+            "stars": 12177
           }
         },
         {
@@ -840,7 +903,7 @@
             "last_commit": "2023-12-04T14:41:06Z",
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11703
+            "stars": 11702
           }
         },
         {
@@ -870,7 +933,7 @@
             "last_commit": "2024-03-05T16:19:55Z",
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6565
+            "stars": 6566
           }
         },
         {
@@ -885,7 +948,7 @@
             "last_commit": "2024-08-21T02:41:08Z",
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5211
+            "stars": 5210
           }
         },
         {
@@ -915,7 +978,7 @@
             "last_commit": "2024-06-11T23:15:48Z",
             "owner": "mtoyoda",
             "repo": "sl",
-            "stars": 3327
+            "stars": 3328
           }
         },
         {
@@ -1116,7 +1179,7 @@
             "last_commit": "2026-02-27T07:23:49Z",
             "owner": "auchenberg",
             "repo": "volkswagen",
-            "stars": 15460
+            "stars": 15461
           }
         },
         {
@@ -1182,7 +1245,7 @@
             "last_commit": "2026-01-17T10:39:34Z",
             "owner": "hugomd",
             "repo": "parrot.live",
-            "stars": 4465
+            "stars": 4464
           }
         },
         {
@@ -1250,7 +1313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:22:30.061Z",
+    "last_updated": "2026-08-24T14:18:10.437Z",
     "original_repository": "mislavcimpersak/awesome-dev-fun",
     "original_repository_id": 81868904,
     "original_repository_sha": "c7407753f6ee15ffa3bcf16901a61f10b81f72c3",
