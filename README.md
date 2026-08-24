@@ -136,7 +136,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## CLI
 
-* [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) ⭐ 189,347 | 🐛 574 | 🌐 Shell | 📅 2026-08-24 - A Chuck Norris fortune plugin for ZSH.
+* [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) ⭐ 189,348 | 🐛 574 | 🌐 Shell | 📅 2026-08-24 - A Chuck Norris fortune plugin for ZSH.
 * [genact](https://github.com/svenstaro/genact) ⭐ 12,177 | 🐛 16 | 🌐 Rust | 📅 2026-08-01 - 🌀 A nonsense activity generator for your shell.
 * [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,702 | 🐛 21 | 🌐 Shell | 📅 2023-12-04 - Blame someone else for your bad code.
 * [No More Secrets](https://github.com/bartobri/no-more-secrets) ⭐ 7,802 | 🐛 1 | 🌐 C | 📅 2025-12-13 - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
