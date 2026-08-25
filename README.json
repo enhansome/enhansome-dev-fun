@@ -165,7 +165,7 @@
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23787
+            "stars": 23789
           }
         }
       ],
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-08T20:35:18Z",
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15584
+            "stars": 15585
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2025-03-10T08:15:33Z",
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8599
+            "stars": 8598
           }
         },
         {
@@ -870,10 +870,10 @@
             "archived": false,
             "id": 291137,
             "language": "Shell",
-            "last_commit": "2026-08-24T16:33:49Z",
+            "last_commit": "2026-08-25T14:40:25Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189356
+            "stars": 189364
           }
         },
         {
@@ -933,7 +933,7 @@
             "last_commit": "2024-03-05T16:19:55Z",
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6564
+            "stars": 6565
           }
         },
         {
@@ -993,7 +993,7 @@
             "last_commit": "2024-08-12T05:25:41Z",
             "owner": "pipeseroni",
             "repo": "pipes.sh",
-            "stars": 3013
+            "stars": 3014
           }
         },
         {
@@ -1164,7 +1164,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65661
+            "stars": 65663
           }
         },
         {
@@ -1313,7 +1313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:11:52.824Z",
+    "last_updated": "2026-08-25T14:43:57.455Z",
     "original_repository": "mislavcimpersak/awesome-dev-fun",
     "original_repository_id": 81868904,
     "original_repository_sha": "c7407753f6ee15ffa3bcf16901a61f10b81f72c3",
