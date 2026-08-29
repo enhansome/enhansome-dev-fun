@@ -74,7 +74,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6590,
+            "stars": 6589,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -270,7 +270,7 @@
             "open_issues": 546,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23795,
+            "stars": 23794,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -297,7 +297,7 @@
             "open_issues": 10,
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15698,
+            "stars": 15702,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1006,7 +1006,7 @@
             "open_issues": 73,
             "owner": "lhartikk",
             "repo": "ArnoldC",
-            "stars": 6882,
+            "stars": 6883,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1307,7 +1307,7 @@
             "open_issues": 574,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189427,
+            "stars": 189441,
             "topics": [
               "cli",
               "cli-app",
@@ -1394,7 +1394,7 @@
             "open_issues": 1,
             "owner": "bartobri",
             "repo": "no-more-secrets",
-            "stars": 7805,
+            "stars": 7806,
             "topics": [
               "effect",
               "hacker",
@@ -1800,7 +1800,7 @@
             "open_issues": 4721,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65674,
+            "stars": 65675,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1901,7 +1901,7 @@
             "open_issues": 60,
             "owner": "philipl",
             "repo": "pifs",
-            "stars": 7530,
+            "stars": 7531,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:40:23.391Z",
+    "last_updated": "2026-08-29T17:30:51.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
