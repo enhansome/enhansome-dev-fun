@@ -55,11 +55,11 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Java
 
-* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,794 | 🐛 546 | 🌐 Java | 📅 2024-07-15 - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
+* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,796 | 🐛 546 | 🌐 Java | 📅 2024-07-15 - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 
 ## JavaScript
 
-* [not-paid.js](https://github.com/kleampa/not-paid) ⭐ 15,702 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-08 - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
+* [not-paid.js](https://github.com/kleampa/not-paid) ⭐ 15,703 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-08 - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
 * [jsFuck](https://github.com/aemkei/jsfuck) ⭐ 8,596 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10
 * [Elevator.js](https://github.com/tholman/elevator.js) ⭐ 6,637 | 🐛 19 | 🌐 JavaScript | 📅 2020-06-26 - Finally, a "back to top" button that behaves like a real elevator.
 * [is-thirteen](https://github.com/jezen/is-thirteen) ⭐ 6,182 | 🐛 419 | 🌐 JavaScript | 📅 2026-01-29 - Check if a number is equal to 13.
@@ -129,7 +129,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Browser extensions
 
 * [Github XP](https://github.com/martenbjork/github-xp) ⭐ 2,654 | 🐛 15 | 📅 2025-11-01 - Microsoft + GitHub = ❤️. Make it official by giving your GitHub experience some Windows XP flair.
-* [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) ⭐ 1,503 | 🐛 19 | 🌐 JavaScript | 📅 2024-02-19 - Chrome extension that replaces occurrences of 'the cloud' with 'my butt'.
+* [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) ⭐ 1,502 | 🐛 19 | 🌐 JavaScript | 📅 2024-02-19 - Chrome extension that replaces occurrences of 'the cloud' with 'my butt'.
 * [Outcognito Mode](https://github.com/hrldcpr/outcognito-mode) ⚠️ Archived - Incognito Mode for extroverts.
 * [NonAd Block](https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US) - Blocks any content that is not an ad.
 * [Youtube Notch Mode](https://chrome.google.com/webstore/detail/youtube-notch-mode/fiklbelmepfnpojheaklfnhfhbfkmibb) - Youtube Notch Mode is a chrome extension that adds the ugly, black cut out seen at the top of the iPhone X to every Youtube video. Why? Because it's more beautiful.
@@ -137,15 +137,15 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## CLI
 
-* [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) ⭐ 189,441 | 🐛 574 | 🌐 Shell | 📅 2026-08-29 - A Chuck Norris fortune plugin for ZSH.
+* [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) ⭐ 189,454 | 🐛 576 | 🌐 Shell | 📅 2026-08-30 - A Chuck Norris fortune plugin for ZSH.
 * [genact](https://github.com/svenstaro/genact) ⭐ 12,178 | 🐛 16 | 🌐 Rust | 📅 2026-08-01 - 🌀 A nonsense activity generator for your shell.
 * [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,703 | 🐛 21 | 🌐 Shell | 📅 2023-12-04 - Blame someone else for your bad code.
 * [No More Secrets](https://github.com/bartobri/no-more-secrets) ⭐ 7,806 | 🐛 1 | 🌐 C | 📅 2025-12-13 - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 * [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,566 | 🐛 33 | 🌐 Ruby | 📅 2024-03-05 - Rainbows and unicorns!
-* [cmatrix](https://github.com/abishekvashok/cmatrix) ⭐ 5,215 | 🐛 83 | 🌐 C | 📅 2024-08-21 - Make it digital rain in your terminal like The Matrix.
+* [cmatrix](https://github.com/abishekvashok/cmatrix) ⭐ 5,216 | 🐛 83 | 🌐 C | 📅 2024-08-21 - Make it digital rain in your terminal like The Matrix.
 * [lolcommits](https://github.com/mroth/lolcommits) ⭐ 4,815 | 🐛 40 | 🌐 Ruby | 📅 2026-08-20 - Git-based selfies for software developers.
-* [sl](https://github.com/mtoyoda/sl) ⭐ 3,330 | 🐛 37 | 🌐 C | 📅 2024-06-11 - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
-* [pipes.sh](https://github.com/pipeseroni/pipes.sh) ⭐ 3,017 | 🐛 14 | 🌐 Shell | 📅 2024-08-12 - Animated pipes terminal screensaver.
+* [sl](https://github.com/mtoyoda/sl) ⭐ 3,331 | 🐛 37 | 🌐 C | 📅 2024-06-11 - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
+* [pipes.sh](https://github.com/pipeseroni/pipes.sh) ⭐ 3,018 | 🐛 14 | 🌐 Shell | 📅 2024-08-12 - Animated pipes terminal screensaver.
 * [evil.sh](https://github.com/mathiasbynens/evil.sh) ⭐ 2,205 | 🐛 42 | 🌐 Shell | 📅 2023-04-25 - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 * [nSnake](https://github.com/alexdantas/nSnake) ⭐ 228 | 🐛 23 | 🌐 C++ | 📅 2023-09-27 - Snake game in terminal!
 * [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) ⭐ 205 | 🐛 3 | 🌐 Shell | 📅 2018-02-16 - Boost your "productivity" to the max! A productivity suite made for slackers by slackers.
@@ -159,9 +159,9 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## DevOps
 
-* [No Code](https://github.com/kelseyhightower/nocode) ⭐ 65,675 | 🐛 4,721 | 🌐 Dockerfile | 📅 2024-08-07 - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-* [Volkswagen](https://github.com/auchenberg/volkswagen) ⭐ 15,463 | 🐛 23 | 🌐 JavaScript | 📅 2026-02-27 - 🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.
-* [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) ⭐ 1,180 | 🐛 17 | 🌐 Go | 📅 2024-05-28 - The Terraform plugin for the Dominos Pizza provider.
+* [No Code](https://github.com/kelseyhightower/nocode) ⭐ 65,676 | 🐛 4,721 | 🌐 Dockerfile | 📅 2024-08-07 - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+* [Volkswagen](https://github.com/auchenberg/volkswagen) ⭐ 15,462 | 🐛 23 | 🌐 JavaScript | 📅 2026-02-27 - 🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.
+* [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) ⭐ 1,181 | 🐛 17 | 🌐 Go | 📅 2024-05-28 - The Terraform plugin for the Dominos Pizza provider.
 
 ## Miscellaneous
 
@@ -177,4 +177,4 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

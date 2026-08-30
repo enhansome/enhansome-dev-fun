@@ -270,7 +270,7 @@
             "open_issues": 546,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23794,
+            "stars": 23796,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -297,7 +297,7 @@
             "open_issues": 10,
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15702,
+            "stars": 15703,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1259,7 +1259,7 @@
             "open_issues": 19,
             "owner": "panicsteve",
             "repo": "cloud-to-butt",
-            "stars": 1503,
+            "stars": 1502,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1303,11 +1303,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-29T00:43:45Z",
-            "open_issues": 574,
+            "last_commit": "2026-08-30T17:16:07Z",
+            "open_issues": 576,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189441,
+            "stars": 189454,
             "topics": [
               "cli",
               "cli-app",
@@ -1446,7 +1446,7 @@
             "open_issues": 83,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5215,
+            "stars": 5216,
             "topics": [
               "c",
               "matrix",
@@ -1498,7 +1498,7 @@
             "open_issues": 37,
             "owner": "mtoyoda",
             "repo": "sl",
-            "stars": 3330,
+            "stars": 3331,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1519,7 +1519,7 @@
             "open_issues": 14,
             "owner": "pipeseroni",
             "repo": "pipes.sh",
-            "stars": 3017,
+            "stars": 3018,
             "topics": [
               "bash",
               "pipes-sh",
@@ -1800,7 +1800,7 @@
             "open_issues": 4721,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65675,
+            "stars": 65676,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1821,7 +1821,7 @@
             "open_issues": 23,
             "owner": "auchenberg",
             "repo": "volkswagen",
-            "stars": 15463,
+            "stars": 15462,
             "topics": [
               "cheat",
               "ci-server",
@@ -1850,7 +1850,7 @@
             "open_issues": 17,
             "owner": "nat-henderson",
             "repo": "terraform-provider-dominos",
-            "stars": 1180,
+            "stars": 1181,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1877,7 +1877,7 @@
             "open_issues": 220,
             "owner": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
             "repo": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-            "stars": 10562,
+            "stars": 10563,
             "topics": [
               "e",
               "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:30:51.605Z",
+    "last_updated": "2026-08-30T17:56:33.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
