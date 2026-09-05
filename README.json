@@ -139,8 +139,8 @@
             "id": 1323379669,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-04T16:26:12Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-04T21:05:33Z",
+            "open_issues": 4,
             "owner": "TevvvB",
             "repo": "termagitchi",
             "stars": 14,
@@ -270,7 +270,7 @@
             "open_issues": 546,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23829,
+            "stars": 23831,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -381,7 +381,7 @@
             "open_issues": 35,
             "owner": "mattdiamond",
             "repo": "fuckitjs",
-            "stars": 4185,
+            "stars": 4184,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1160,7 +1160,7 @@
             "open_issues": 12,
             "owner": "tomdionysus",
             "repo": "foaas",
-            "stars": 3064,
+            "stars": 3065,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1303,11 +1303,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-04T11:19:11Z",
-            "open_issues": 573,
+            "last_commit": "2026-09-04T23:45:57Z",
+            "open_issues": 568,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189547,
+            "stars": 189552,
             "topics": [
               "cli",
               "cli-app",
@@ -1373,7 +1373,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11709,
+            "stars": 11708,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1422,7 +1422,7 @@
             "open_issues": 33,
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6569,
+            "stars": 6570,
             "topics": [
               "cli",
               "essentials"
@@ -1446,7 +1446,7 @@
             "open_issues": 83,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5231,
+            "stars": 5230,
             "topics": [
               "c",
               "matrix",
@@ -1498,7 +1498,7 @@
             "open_issues": 37,
             "owner": "mtoyoda",
             "repo": "sl",
-            "stars": 3327,
+            "stars": 3328,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1519,7 +1519,7 @@
             "open_issues": 14,
             "owner": "pipeseroni",
             "repo": "pipes.sh",
-            "stars": 3021,
+            "stars": 3022,
             "topics": [
               "bash",
               "pipes-sh",
@@ -1800,7 +1800,7 @@
             "open_issues": 4720,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65693,
+            "stars": 65695,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:22:57.616Z",
+    "last_updated": "2026-09-05T16:33:38.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
@@ -2036,7 +2036,7 @@
       "open_issues": 2,
       "owner": "mislavcimpersak",
       "repo": "awesome-dev-fun",
-      "stars": 658,
+      "stars": 659,
       "topics": [
         "awesome",
         "fun",
