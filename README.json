@@ -270,7 +270,7 @@
             "open_issues": 546,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23831,
+            "stars": 23834,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -297,7 +297,7 @@
             "open_issues": 10,
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15702,
+            "stars": 15700,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -318,7 +318,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8597,
+            "stars": 8598,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1303,11 +1303,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-04T23:45:57Z",
-            "open_issues": 568,
+            "last_commit": "2026-09-06T15:56:09Z",
+            "open_issues": 440,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189552,
+            "stars": 189584,
             "topics": [
               "cli",
               "cli-app",
@@ -1373,7 +1373,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11708,
+            "stars": 11709,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1446,7 +1446,7 @@
             "open_issues": 83,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5230,
+            "stars": 5235,
             "topics": [
               "c",
               "matrix",
@@ -1467,7 +1467,7 @@
             "id": 2499845,
             "language": "Ruby",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-01T06:45:53Z",
+            "last_commit": "2026-09-05T21:15:56Z",
             "open_issues": 40,
             "owner": "lolcommits",
             "repo": "lolcommits",
@@ -1800,7 +1800,7 @@
             "open_issues": 4720,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65695,
+            "stars": 65698,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1922,7 +1922,7 @@
             "open_issues": 3,
             "owner": "hugomd",
             "repo": "parrot.live",
-            "stars": 4468,
+            "stars": 4471,
             "topics": [
               "curl",
               "parrot",
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:33:38.110Z",
+    "last_updated": "2026-09-06T16:43:14.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
