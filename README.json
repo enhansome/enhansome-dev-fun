@@ -139,11 +139,11 @@
             "id": 1323379669,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-09T16:46:20Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-15T18:56:32Z",
+            "open_issues": 3,
             "owner": "TevvvB",
             "repo": "termagitchi",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -1006,7 +1006,7 @@
             "open_issues": 73,
             "owner": "lhartikk",
             "repo": "ArnoldC",
-            "stars": 6882,
+            "stars": 6881,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1027,7 +1027,7 @@
             "open_issues": 26,
             "owner": "munificent",
             "repo": "vigil",
-            "stars": 3038,
+            "stars": 3037,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1181,7 +1181,7 @@
             "open_issues": 2,
             "owner": "sameerkumar18",
             "repo": "corporate-bs-generator-api",
-            "stars": 358,
+            "stars": 357,
             "topics": [
               "api",
               "bullshit",
@@ -1303,11 +1303,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-14T19:43:54Z",
-            "open_issues": 326,
+            "last_commit": "2026-09-16T08:47:21Z",
+            "open_issues": 313,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189738,
+            "stars": 189750,
             "topics": [
               "cli",
               "cli-app",
@@ -1394,7 +1394,7 @@
             "open_issues": 1,
             "owner": "bartobri",
             "repo": "no-more-secrets",
-            "stars": 7815,
+            "stars": 7816,
             "topics": [
               "effect",
               "hacker",
@@ -1422,7 +1422,7 @@
             "open_issues": 33,
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6579,
+            "stars": 6581,
             "topics": [
               "cli",
               "essentials"
@@ -1498,7 +1498,7 @@
             "open_issues": 37,
             "owner": "mtoyoda",
             "repo": "sl",
-            "stars": 3331,
+            "stars": 3332,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1800,7 +1800,7 @@
             "open_issues": 4718,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65725,
+            "stars": 65730,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1922,7 +1922,7 @@
             "open_issues": 4,
             "owner": "hugomd",
             "repo": "parrot.live",
-            "stars": 4473,
+            "stars": 4474,
             "topics": [
               "curl",
               "parrot",
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:56:42.240Z",
+    "last_updated": "2026-09-16T17:59:18.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
