@@ -211,7 +211,7 @@
             "open_issues": 0,
             "owner": "fgaz",
             "repo": "hackertyper",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "hacking",
               "haskell",
@@ -800,7 +800,7 @@
             "open_issues": 8,
             "owner": "y-ncao",
             "repo": "Like-My-GF",
-            "stars": 403,
+            "stars": 404,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1006,7 +1006,7 @@
             "open_issues": 73,
             "owner": "lhartikk",
             "repo": "ArnoldC",
-            "stars": 6885,
+            "stars": 6886,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1181,7 +1181,7 @@
             "open_issues": 2,
             "owner": "sameerkumar18",
             "repo": "corporate-bs-generator-api",
-            "stars": 358,
+            "stars": 359,
             "topics": [
               "api",
               "bullshit",
@@ -1303,11 +1303,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-20T15:14:29Z",
-            "open_issues": 315,
+            "last_commit": "2026-09-22T15:46:18Z",
+            "open_issues": 299,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189870,
+            "stars": 189881,
             "topics": [
               "cli",
               "cli-app",
@@ -1344,7 +1344,7 @@
             "open_issues": 16,
             "owner": "svenstaro",
             "repo": "genact",
-            "stars": 12200,
+            "stars": 12201,
             "topics": [
               "cli",
               "fake",
@@ -1373,7 +1373,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11709,
+            "stars": 11710,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1394,7 +1394,7 @@
             "open_issues": 1,
             "owner": "bartobri",
             "repo": "no-more-secrets",
-            "stars": 7817,
+            "stars": 7818,
             "topics": [
               "effect",
               "hacker",
@@ -1422,7 +1422,7 @@
             "open_issues": 33,
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6581,
+            "stars": 6579,
             "topics": [
               "cli",
               "essentials"
@@ -1446,7 +1446,7 @@
             "open_issues": 83,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5252,
+            "stars": 5254,
             "topics": [
               "c",
               "matrix",
@@ -1519,7 +1519,7 @@
             "open_issues": 14,
             "owner": "pipeseroni",
             "repo": "pipes.sh",
-            "stars": 3026,
+            "stars": 3028,
             "topics": [
               "bash",
               "pipes-sh",
@@ -1587,7 +1587,7 @@
             "open_issues": 3,
             "owner": "kyle8998",
             "repo": "Sudo-Productivity",
-            "stars": 206,
+            "stars": 207,
             "topics": [
               "command-line",
               "fun",
@@ -1922,7 +1922,7 @@
             "open_issues": 4,
             "owner": "hugomd",
             "repo": "parrot.live",
-            "stars": 4473,
+            "stars": 4474,
             "topics": [
               "curl",
               "parrot",
@@ -1948,7 +1948,7 @@
             "open_issues": 0,
             "owner": "will",
             "repo": "slacktyping",
-            "stars": 1926,
+            "stars": 1927,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:05:30.482Z",
+    "last_updated": "2026-09-22T17:57:35.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
