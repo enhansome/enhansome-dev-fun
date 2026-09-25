@@ -270,7 +270,7 @@
             "open_issues": 546,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23867,
+            "stars": 23868,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -381,7 +381,7 @@
             "open_issues": 35,
             "owner": "mattdiamond",
             "repo": "fuckitjs",
-            "stars": 4183,
+            "stars": 4184,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1181,7 +1181,7 @@
             "open_issues": 2,
             "owner": "sameerkumar18",
             "repo": "corporate-bs-generator-api",
-            "stars": 359,
+            "stars": 361,
             "topics": [
               "api",
               "bullshit",
@@ -1307,7 +1307,7 @@
             "open_issues": 299,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189907,
+            "stars": 189922,
             "topics": [
               "cli",
               "cli-app",
@@ -1344,7 +1344,7 @@
             "open_issues": 16,
             "owner": "svenstaro",
             "repo": "genact",
-            "stars": 12205,
+            "stars": 12206,
             "topics": [
               "cli",
               "fake",
@@ -1373,7 +1373,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11712,
+            "stars": 11715,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1394,7 +1394,7 @@
             "open_issues": 1,
             "owner": "bartobri",
             "repo": "no-more-secrets",
-            "stars": 7819,
+            "stars": 7820,
             "topics": [
               "effect",
               "hacker",
@@ -1422,7 +1422,7 @@
             "open_issues": 33,
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6579,
+            "stars": 6580,
             "topics": [
               "cli",
               "essentials"
@@ -1446,7 +1446,7 @@
             "open_issues": 83,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5256,
+            "stars": 5258,
             "topics": [
               "c",
               "matrix",
@@ -1471,7 +1471,7 @@
             "open_issues": 40,
             "owner": "lolcommits",
             "repo": "lolcommits",
-            "stars": 4820,
+            "stars": 4819,
             "topics": [
               "git",
               "git-addons",
@@ -1519,7 +1519,7 @@
             "open_issues": 14,
             "owner": "pipeseroni",
             "repo": "pipes.sh",
-            "stars": 3029,
+            "stars": 3031,
             "topics": [
               "bash",
               "pipes-sh",
@@ -1800,7 +1800,7 @@
             "open_issues": 4721,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65744,
+            "stars": 65746,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1877,7 +1877,7 @@
             "open_issues": 220,
             "owner": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
             "repo": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-            "stars": 10552,
+            "stars": 10553,
             "topics": [
               "e",
               "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
@@ -1922,7 +1922,7 @@
             "open_issues": 4,
             "owner": "hugomd",
             "repo": "parrot.live",
-            "stars": 4476,
+            "stars": 4478,
             "topics": [
               "curl",
               "parrot",
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:14:13.323Z",
+    "last_updated": "2026-09-25T18:14:22.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
