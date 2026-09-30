@@ -74,7 +74,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6585,
+            "stars": 6586,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -267,10 +267,10 @@
             "language": "Java",
             "license": null,
             "last_commit": "2024-07-15T08:04:08Z",
-            "open_issues": 546,
+            "open_issues": 547,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23880,
+            "stars": 23881,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -339,7 +339,7 @@
             "open_issues": 19,
             "owner": "tholman",
             "repo": "elevator.js",
-            "stars": 6635,
+            "stars": 6634,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -357,7 +357,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-01-29T13:44:33Z",
-            "open_issues": 420,
+            "open_issues": 419,
             "owner": "jezen",
             "repo": "is-thirteen",
             "stars": 6172,
@@ -723,7 +723,7 @@
             "open_issues": 12,
             "owner": "hugues-m",
             "repo": "phpunit-vw",
-            "stars": 1759,
+            "stars": 1760,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1304,10 +1304,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-09-29T15:38:41Z",
-            "open_issues": 299,
+            "open_issues": 302,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189988,
+            "stars": 190004,
             "topics": [
               "cli",
               "cli-app",
@@ -1446,7 +1446,7 @@
             "open_issues": 83,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5262,
+            "stars": 5263,
             "topics": [
               "c",
               "matrix",
@@ -1471,7 +1471,7 @@
             "open_issues": 40,
             "owner": "lolcommits",
             "repo": "lolcommits",
-            "stars": 4822,
+            "stars": 4821,
             "topics": [
               "git",
               "git-addons",
@@ -1498,7 +1498,7 @@
             "open_issues": 37,
             "owner": "mtoyoda",
             "repo": "sl",
-            "stars": 3331,
+            "stars": 3334,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1797,10 +1797,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4721,
+            "open_issues": 4722,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65841,
+            "stars": 65847,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1821,7 +1821,7 @@
             "open_issues": 23,
             "owner": "auchenberg",
             "repo": "volkswagen",
-            "stars": 15463,
+            "stars": 15465,
             "topics": [
               "cheat",
               "ci-server",
@@ -1901,7 +1901,7 @@
             "open_issues": 60,
             "owner": "philipl",
             "repo": "pifs",
-            "stars": 7531,
+            "stars": 7530,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:07:17.777Z",
+    "last_updated": "2026-09-30T18:50:26.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
