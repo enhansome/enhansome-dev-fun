@@ -74,7 +74,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6584,
+            "stars": 6583,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -305,7 +305,7 @@
         {
           "node_type": "item",
           "title": "jsFuck",
-          "description": null,
+          "description": "aemkei/jsfuck",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -381,7 +381,7 @@
             "open_issues": 35,
             "owner": "mattdiamond",
             "repo": "fuckitjs",
-            "stars": 4184,
+            "stars": 4183,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -465,7 +465,7 @@
             "open_issues": 11,
             "owner": "theonion",
             "repo": "comcastifyjs",
-            "stars": 1256,
+            "stars": 1255,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -486,7 +486,7 @@
             "open_issues": 13,
             "owner": "lexiross",
             "repo": "fattest-cat",
-            "stars": 736,
+            "stars": 735,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -723,7 +723,7 @@
             "open_issues": 12,
             "owner": "hugues-m",
             "repo": "phpunit-vw",
-            "stars": 1760,
+            "stars": 1759,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1304,10 +1304,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-09-29T15:38:41Z",
-            "open_issues": 302,
+            "open_issues": 303,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190039,
+            "stars": 190046,
             "topics": [
               "cli",
               "cli-app",
@@ -1394,7 +1394,7 @@
             "open_issues": 1,
             "owner": "bartobri",
             "repo": "no-more-secrets",
-            "stars": 7826,
+            "stars": 7825,
             "topics": [
               "effect",
               "hacker",
@@ -1446,7 +1446,7 @@
             "open_issues": 90,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5266,
+            "stars": 5267,
             "topics": [
               "c",
               "matrix",
@@ -1498,7 +1498,7 @@
             "open_issues": 37,
             "owner": "mtoyoda",
             "repo": "sl",
-            "stars": 3337,
+            "stars": 3338,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1901,7 +1901,7 @@
             "open_issues": 60,
             "owner": "philipl",
             "repo": "pifs",
-            "stars": 7531,
+            "stars": 7530,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1969,7 +1969,7 @@
             "open_issues": 5,
             "owner": "gfredericks",
             "repo": "quinedb",
-            "stars": 580,
+            "stars": 579,
             "topics": [
               "database",
               "quine"
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:00:10.118Z",
+    "last_updated": "2026-10-03T04:40:16.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
@@ -2036,7 +2036,7 @@
       "open_issues": 2,
       "owner": "mislavcimpersak",
       "repo": "awesome-dev-fun",
-      "stars": 659,
+      "stars": 660,
       "topics": [
         "awesome",
         "fun",

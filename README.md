@@ -32,7 +32,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## CSS
 
-* [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,584 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
+* [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,583 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
 * [DICSS](https://github.com/letsgetrandy/DICSS) ⭐ 1,344 | 🐛 31 | 🌐 JavaScript | 📅 2015-12-18 - Directly injected CSS.
 
 ## Elixir
@@ -63,12 +63,12 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 * [jsFuck](https://github.com/aemkei/jsfuck) ⭐ 8,602 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10
 * [Elevator.js](https://github.com/tholman/elevator.js) ⭐ 6,633 | 🐛 19 | 🌐 JavaScript | 📅 2020-06-26 - Finally, a "back to top" button that behaves like a real elevator.
 * [is-thirteen](https://github.com/jezen/is-thirteen) ⭐ 6,172 | 🐛 419 | 🌐 JavaScript | 📅 2026-01-29 - Check if a number is equal to 13.
-* [FuckitJS](https://github.com/mattdiamond/fuckitjs) ⭐ 4,184 | 🐛 35 | 🌐 JavaScript | 📅 2023-07-01 - JavaScript Error Steamroller.
+* [FuckitJS](https://github.com/mattdiamond/fuckitjs) ⭐ 4,183 | 🐛 35 | 🌐 JavaScript | 📅 2023-07-01 - JavaScript Error Steamroller.
 * [Echochamber.js](https://github.com/tessalt/echo-chamber-js) ⭐ 4,104 | 🐛 12 | 🌐 JavaScript | 📅 2019-05-10 - Commenting without the comments - providing a single-sided user comments just stored in local storage.
 * [fartscroll.js](https://github.com/theonion/fartscroll.js) ⚠️ Archived - Everyone farts. And now your web pages can too.
 * [vapor.js](https://github.com/madrobby/vapor.js) ⭐ 1,412 | 🐛 62 | 🌐 JavaScript | 📅 2022-07-19 - The World's Smallest & Fastest JavaScript Library.
 * [ComcastifyJS](https://github.com/theonion/comcastifyjs) ⚠️ Archived - Sometimes images just load too damned fast.
-* [fattest-cat](https://github.com/lexiross/fattest-cat) ⭐ 736 | 🐛 13 | 🌐 JavaScript | 📅 2023-09-25 - Script to find fattest cat currently up for adoption at SF SPCA.
+* [fattest-cat](https://github.com/lexiross/fattest-cat) ⭐ 735 | 🐛 13 | 🌐 JavaScript | 📅 2023-09-25 - Script to find fattest cat currently up for adoption at SF SPCA.
 * [eslint-plugin-replyguy](https://github.com/jlengstorf/eslint-plugin-replyguy) ⭐ 417 | 🐛 6 | 🌐 JavaScript | 📅 2020-08-10 - The ESLint plugin you definitely didn’t ask for.
 * [undefined-is-a-function](https://github.com/donavon/undefined-is-a-function) ⭐ 242 | 🐛 3 | 🌐 JavaScript | 📅 2020-12-16 - "undefined is not a function"? — It is now!
 * [Object.toSting()](https://github.com/teropa/to-sting) ⭐ 204 | 🐛 3 | 📅 2016-04-18 - Logs an image of Sting to the development console.
@@ -86,7 +86,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## PHP
 
-* [Phpunit VW](https://github.com/hmlb/phpunit-vw) ⭐ 1,760 | 🐛 12 | 🌐 PHP | 📅 2018-01-31 - VW makes failing test cases succeed in continuous integration tools.
+* [Phpunit VW](https://github.com/hmlb/phpunit-vw) ⭐ 1,759 | 🐛 12 | 🌐 PHP | 📅 2018-01-31 - VW makes failing test cases succeed in continuous integration tools.
 * [Assert true](https://github.com/joubertredrat/assert-true) ⭐ 20 | 🐛 1 | 🌐 PHP | 📅 2026-01-28 - A lot of ways to you set your assert as true.
 
 ## Python
@@ -137,14 +137,14 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## CLI
 
-* [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) ⭐ 190,039 | 🐛 302 | 🌐 Shell | 📅 2026-09-29 - A Chuck Norris fortune plugin for ZSH.
+* [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) ⭐ 190,046 | 🐛 303 | 🌐 Shell | 📅 2026-09-29 - A Chuck Norris fortune plugin for ZSH.
 * [genact](https://github.com/svenstaro/genact) ⭐ 12,208 | 🐛 15 | 🌐 Rust | 📅 2026-10-01 - 🌀 A nonsense activity generator for your shell.
 * [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,717 | 🐛 21 | 🌐 Shell | 📅 2023-12-04 - Blame someone else for your bad code.
-* [No More Secrets](https://github.com/bartobri/no-more-secrets) ⭐ 7,826 | 🐛 1 | 🌐 C | 📅 2025-12-13 - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+* [No More Secrets](https://github.com/bartobri/no-more-secrets) ⭐ 7,825 | 🐛 1 | 🌐 C | 📅 2025-12-13 - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 * [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,581 | 🐛 33 | 🌐 Ruby | 📅 2024-03-05 - Rainbows and unicorns!
-* [cmatrix](https://github.com/abishekvashok/cmatrix) ⭐ 5,266 | 🐛 90 | 🌐 C | 📅 2024-08-21 - Make it digital rain in your terminal like The Matrix.
+* [cmatrix](https://github.com/abishekvashok/cmatrix) ⭐ 5,267 | 🐛 90 | 🌐 C | 📅 2024-08-21 - Make it digital rain in your terminal like The Matrix.
 * [lolcommits](https://github.com/mroth/lolcommits) ⭐ 4,821 | 🐛 40 | 🌐 Ruby | 📅 2026-09-14 - Git-based selfies for software developers.
-* [sl](https://github.com/mtoyoda/sl) ⭐ 3,337 | 🐛 37 | 🌐 C | 📅 2024-06-11 - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
+* [sl](https://github.com/mtoyoda/sl) ⭐ 3,338 | 🐛 37 | 🌐 C | 📅 2024-06-11 - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh) ⭐ 3,033 | 🐛 14 | 🌐 Shell | 📅 2024-08-12 - Animated pipes terminal screensaver.
 * [evil.sh](https://github.com/mathiasbynens/evil.sh) ⭐ 2,206 | 🐛 42 | 🌐 Shell | 📅 2023-04-25 - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 * [nSnake](https://github.com/alexdantas/nSnake) ⭐ 229 | 🐛 23 | 🌐 C++ | 📅 2023-09-27 - Snake game in terminal!
@@ -166,10 +166,10 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Miscellaneous
 
 * [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) ⚠️ Archived - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (archiveeeeeeeeeed).
-* [πfs](https://github.com/philipl/pifs) ⭐ 7,531 | 🐛 60 | 🌐 C | 📅 2026-04-01 - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*.
+* [πfs](https://github.com/philipl/pifs) ⭐ 7,530 | 🐛 60 | 🌐 C | 📅 2026-04-01 - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*.
 * [parrot.live](https://github.com/hugomd/parrot.live) ⭐ 4,483 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-17 - 🐦 Bringing animated parrots to terminals everywhere.
 * [Slack Typing](https://github.com/will/slacktyping) ⭐ 1,927 | 🐛 0 | 🌐 Ruby | 📅 2018-04-27 - A very good program that makes it so it says I'm typing when anyone else is typing.
-* [quinedb](https://github.com/gfredericks/quinedb) ⭐ 580 | 🐛 5 | 🌐 Shell | 📅 2017-07-29 - A quine that is also a key-value store.  Breaking down the walls between code and data.
+* [quinedb](https://github.com/gfredericks/quinedb) ⭐ 579 | 🐛 5 | 🌐 Shell | 📅 2017-07-29 - A quine that is also a key-value store.  Breaking down the walls between code and data.
 * [Filefile](https://github.com/cobyism/Filefile) ⭐ 77 | 🐛 5 | 📅 2022-08-16 - File to keep track of all the files you have in your repo that end in "file" eg. [Filefile](Filefile).
 * [Shrugapillar.js](https://github.com/memeguild/shrugapillar) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-31 - A library for generating shrugapillars.
 * [Xkcd Excuse](https://xkcd-excuse.com) - The easiest way to get your slacking excuse in hip xkcd format!
@@ -177,4 +177,4 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
