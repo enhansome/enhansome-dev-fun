@@ -270,7 +270,7 @@
             "open_issues": 547,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23883,
+            "stars": 23886,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1307,7 +1307,7 @@
             "open_issues": 303,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190046,
+            "stars": 190059,
             "topics": [
               "cli",
               "cli-app",
@@ -1344,7 +1344,7 @@
             "open_issues": 15,
             "owner": "svenstaro",
             "repo": "genact",
-            "stars": 12208,
+            "stars": 12210,
             "topics": [
               "cli",
               "fake",
@@ -1446,7 +1446,7 @@
             "open_issues": 90,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5267,
+            "stars": 5268,
             "topics": [
               "c",
               "matrix",
@@ -1519,7 +1519,7 @@
             "open_issues": 14,
             "owner": "pipeseroni",
             "repo": "pipes.sh",
-            "stars": 3033,
+            "stars": 3034,
             "topics": [
               "bash",
               "pipes-sh",
@@ -1901,7 +1901,7 @@
             "open_issues": 60,
             "owner": "philipl",
             "repo": "pifs",
-            "stars": 7530,
+            "stars": 7529,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:40:16.082Z",
+    "last_updated": "2026-10-03T17:48:40.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
