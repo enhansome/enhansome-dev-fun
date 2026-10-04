@@ -270,7 +270,7 @@
             "open_issues": 547,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23886,
+            "stars": 23888,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -318,7 +318,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8602,
+            "stars": 8603,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1027,7 +1027,7 @@
             "open_issues": 26,
             "owner": "munificent",
             "repo": "vigil",
-            "stars": 3035,
+            "stars": 3034,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1256,10 +1256,10 @@
             "language": "JavaScript",
             "license": "WTFPL",
             "last_commit": "2024-02-19T14:43:12Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "panicsteve",
             "repo": "cloud-to-butt",
-            "stars": 1503,
+            "stars": 1500,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1303,11 +1303,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-29T15:38:41Z",
-            "open_issues": 303,
+            "last_commit": "2026-10-04T12:52:46Z",
+            "open_issues": 305,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190059,
+            "stars": 190148,
             "topics": [
               "cli",
               "cli-app",
@@ -1344,7 +1344,7 @@
             "open_issues": 15,
             "owner": "svenstaro",
             "repo": "genact",
-            "stars": 12210,
+            "stars": 12211,
             "topics": [
               "cli",
               "fake",
@@ -1446,7 +1446,7 @@
             "open_issues": 90,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5268,
+            "stars": 5270,
             "topics": [
               "c",
               "matrix",
@@ -1498,7 +1498,7 @@
             "open_issues": 37,
             "owner": "mtoyoda",
             "repo": "sl",
-            "stars": 3338,
+            "stars": 3336,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1519,7 +1519,7 @@
             "open_issues": 14,
             "owner": "pipeseroni",
             "repo": "pipes.sh",
-            "stars": 3034,
+            "stars": 3035,
             "topics": [
               "bash",
               "pipes-sh",
@@ -1797,10 +1797,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4722,
+            "open_issues": 4723,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65855,
+            "stars": 65859,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1922,7 +1922,7 @@
             "open_issues": 4,
             "owner": "hugomd",
             "repo": "parrot.live",
-            "stars": 4483,
+            "stars": 4482,
             "topics": [
               "curl",
               "parrot",
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:48:40.208Z",
+    "last_updated": "2026-10-04T17:59:20.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
