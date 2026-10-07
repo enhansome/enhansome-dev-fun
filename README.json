@@ -74,7 +74,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6583,
+            "stars": 6582,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -270,7 +270,7 @@
             "open_issues": 547,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23891,
+            "stars": 23893,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -318,7 +318,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8604,
+            "stars": 8602,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -339,7 +339,7 @@
             "open_issues": 19,
             "owner": "tholman",
             "repo": "elevator.js",
-            "stars": 6633,
+            "stars": 6634,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -423,7 +423,7 @@
             "open_issues": 30,
             "owner": "theonion",
             "repo": "fartscroll.js",
-            "stars": 2835,
+            "stars": 2834,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -779,7 +779,7 @@
             "open_issues": 0,
             "owner": "awwaiid",
             "repo": "gremllm",
-            "stars": 644,
+            "stars": 645,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -985,7 +985,7 @@
             "open_issues": 5,
             "owner": "samshadwell",
             "repo": "TrumpScript",
-            "stars": 7583,
+            "stars": 7582,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1006,7 +1006,7 @@
             "open_issues": 73,
             "owner": "lhartikk",
             "repo": "ArnoldC",
-            "stars": 6887,
+            "stars": 6886,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1181,7 +1181,7 @@
             "open_issues": 2,
             "owner": "sameerkumar18",
             "repo": "corporate-bs-generator-api",
-            "stars": 362,
+            "stars": 363,
             "topics": [
               "api",
               "bullshit",
@@ -1304,10 +1304,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-06T09:06:45Z",
-            "open_issues": 303,
+            "open_issues": 306,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190178,
+            "stars": 190219,
             "topics": [
               "cli",
               "cli-app",
@@ -1344,7 +1344,7 @@
             "open_issues": 15,
             "owner": "svenstaro",
             "repo": "genact",
-            "stars": 12210,
+            "stars": 12215,
             "topics": [
               "cli",
               "fake",
@@ -1373,7 +1373,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11718,
+            "stars": 11717,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1394,7 +1394,7 @@
             "open_issues": 1,
             "owner": "bartobri",
             "repo": "no-more-secrets",
-            "stars": 7824,
+            "stars": 7827,
             "topics": [
               "effect",
               "hacker",
@@ -1422,7 +1422,7 @@
             "open_issues": 33,
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6582,
+            "stars": 6581,
             "topics": [
               "cli",
               "essentials"
@@ -1446,7 +1446,7 @@
             "open_issues": 90,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5272,
+            "stars": 5271,
             "topics": [
               "c",
               "matrix",
@@ -1800,7 +1800,7 @@
             "open_issues": 4723,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65865,
+            "stars": 65867,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1901,7 +1901,7 @@
             "open_issues": 60,
             "owner": "philipl",
             "repo": "pifs",
-            "stars": 7531,
+            "stars": 7533,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1922,7 +1922,7 @@
             "open_issues": 4,
             "owner": "hugomd",
             "repo": "parrot.live",
-            "stars": 4481,
+            "stars": 4483,
             "topics": [
               "curl",
               "parrot",
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:08:05.046Z",
+    "last_updated": "2026-10-07T19:45:29.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
