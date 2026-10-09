@@ -74,7 +74,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6583,
+            "stars": 6582,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -297,7 +297,7 @@
             "open_issues": 10,
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15699,
+            "stars": 15700,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -318,7 +318,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8602,
+            "stars": 8601,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -339,7 +339,7 @@
             "open_issues": 19,
             "owner": "tholman",
             "repo": "elevator.js",
-            "stars": 6634,
+            "stars": 6632,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -360,7 +360,7 @@
             "open_issues": 419,
             "owner": "jezen",
             "repo": "is-thirteen",
-            "stars": 6172,
+            "stars": 6173,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -381,7 +381,7 @@
             "open_issues": 35,
             "owner": "mattdiamond",
             "repo": "fuckitjs",
-            "stars": 4182,
+            "stars": 4183,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -444,7 +444,7 @@
             "open_issues": 62,
             "owner": "madrobby",
             "repo": "vapor.js",
-            "stars": 1412,
+            "stars": 1411,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -985,7 +985,7 @@
             "open_issues": 5,
             "owner": "samshadwell",
             "repo": "TrumpScript",
-            "stars": 7582,
+            "stars": 7581,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1006,7 +1006,7 @@
             "open_issues": 73,
             "owner": "lhartikk",
             "repo": "ArnoldC",
-            "stars": 6888,
+            "stars": 6889,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1160,7 +1160,7 @@
             "open_issues": 12,
             "owner": "tomdionysus",
             "repo": "foaas",
-            "stars": 3060,
+            "stars": 3059,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1181,7 +1181,7 @@
             "open_issues": 2,
             "owner": "sameerkumar18",
             "repo": "corporate-bs-generator-api",
-            "stars": 363,
+            "stars": 364,
             "topics": [
               "api",
               "bullshit",
@@ -1303,11 +1303,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-06T09:06:45Z",
-            "open_issues": 309,
+            "last_commit": "2026-10-09T14:11:18Z",
+            "open_issues": 304,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190036,
+            "stars": 190054,
             "topics": [
               "cli",
               "cli-app",
@@ -1344,7 +1344,7 @@
             "open_issues": 15,
             "owner": "svenstaro",
             "repo": "genact",
-            "stars": 12216,
+            "stars": 12218,
             "topics": [
               "cli",
               "fake",
@@ -1373,7 +1373,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11717,
+            "stars": 11716,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1422,7 +1422,7 @@
             "open_issues": 33,
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6582,
+            "stars": 6584,
             "topics": [
               "cli",
               "essentials"
@@ -1446,7 +1446,7 @@
             "open_issues": 90,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5274,
+            "stars": 5275,
             "topics": [
               "c",
               "matrix",
@@ -1566,7 +1566,7 @@
             "open_issues": 23,
             "owner": "alexdantas",
             "repo": "nSnake",
-            "stars": 229,
+            "stars": 227,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1800,7 +1800,7 @@
             "open_issues": 4722,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65872,
+            "stars": 65876,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1821,7 +1821,7 @@
             "open_issues": 23,
             "owner": "auchenberg",
             "repo": "volkswagen",
-            "stars": 15465,
+            "stars": 15467,
             "topics": [
               "cheat",
               "ci-server",
@@ -1877,7 +1877,7 @@
             "open_issues": 220,
             "owner": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
             "repo": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-            "stars": 10550,
+            "stars": 10549,
             "topics": [
               "e",
               "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
@@ -1948,7 +1948,7 @@
             "open_issues": 0,
             "owner": "will",
             "repo": "slacktyping",
-            "stars": 1927,
+            "stars": 1926,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:40:39.563Z",
+    "last_updated": "2026-10-09T19:16:46.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
