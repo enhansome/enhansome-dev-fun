@@ -178,7 +178,7 @@
             "open_issues": 0,
             "owner": "rafael-santiago",
             "repo": "codeometer",
-            "stars": 8,
+            "stars": 9,
             "topics": [
               "ego-killer",
               "golang",
@@ -270,7 +270,7 @@
             "open_issues": 547,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23898,
+            "stars": 23900,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -297,7 +297,7 @@
             "open_issues": 10,
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15702,
+            "stars": 15701,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -339,7 +339,7 @@
             "open_issues": 19,
             "owner": "tholman",
             "repo": "elevator.js",
-            "stars": 6630,
+            "stars": 6631,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -360,7 +360,7 @@
             "open_issues": 419,
             "owner": "jezen",
             "repo": "is-thirteen",
-            "stars": 6173,
+            "stars": 6174,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -402,7 +402,7 @@
             "open_issues": 12,
             "owner": "tessalt",
             "repo": "echo-chamber-js",
-            "stars": 4104,
+            "stars": 4105,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -486,7 +486,7 @@
             "open_issues": 13,
             "owner": "lexiross",
             "repo": "fattest-cat",
-            "stars": 735,
+            "stars": 736,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1105,7 +1105,7 @@
             "open_issues": 0,
             "owner": "dylanbeattie",
             "repo": "rockstar",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1160,7 +1160,7 @@
             "open_issues": 12,
             "owner": "tomdionysus",
             "repo": "foaas",
-            "stars": 3059,
+            "stars": 3060,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1303,11 +1303,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-12T10:55:11Z",
-            "open_issues": 289,
+            "last_commit": "2026-10-13T09:22:27Z",
+            "open_issues": 287,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190102,
+            "stars": 190129,
             "topics": [
               "cli",
               "cli-app",
@@ -1341,7 +1341,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-01T21:35:12Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "svenstaro",
             "repo": "genact",
             "stars": 12220,
@@ -1373,7 +1373,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11715,
+            "stars": 11717,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1394,7 +1394,7 @@
             "open_issues": 1,
             "owner": "bartobri",
             "repo": "no-more-secrets",
-            "stars": 7827,
+            "stars": 7826,
             "topics": [
               "effect",
               "hacker",
@@ -1422,7 +1422,7 @@
             "open_issues": 33,
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6587,
+            "stars": 6588,
             "topics": [
               "cli",
               "essentials"
@@ -1446,7 +1446,7 @@
             "open_issues": 91,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5278,
+            "stars": 5276,
             "topics": [
               "c",
               "matrix",
@@ -1800,7 +1800,7 @@
             "open_issues": 4723,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65887,
+            "stars": 65899,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1850,7 +1850,7 @@
             "open_issues": 17,
             "owner": "nat-henderson",
             "repo": "terraform-provider-dominos",
-            "stars": 1181,
+            "stars": 1182,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1877,7 +1877,7 @@
             "open_issues": 220,
             "owner": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
             "repo": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-            "stars": 10549,
+            "stars": 10548,
             "topics": [
               "e",
               "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
@@ -1901,7 +1901,7 @@
             "open_issues": 60,
             "owner": "philipl",
             "repo": "pifs",
-            "stars": 7533,
+            "stars": 7534,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:58:49.484Z",
+    "last_updated": "2026-10-13T20:05:50.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
