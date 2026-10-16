@@ -32,7 +32,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## CSS
 
-* [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,581 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
+* [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,580 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
 * [DICSS](https://github.com/letsgetrandy/DICSS) ⭐ 1,343 | 🐛 31 | 🌐 JavaScript | 📅 2015-12-18 - Directly injected CSS.
 
 ## Elixir
@@ -42,7 +42,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Golang
 
 * [gomatrix](https://github.com/GeertJohan/gomatrix) ⭐ 315 | 🐛 3 | 🌐 Go | 📅 2023-11-28 - Connect to The Matrix and display it's data streams in your terminal.
-* [termagitchi](https://github.com/TevvvB/termagitchi) ⭐ 18 | 🐛 3 | 🌐 Go | 📅 2026-09-18 - A gacha machine bolted to `git status`: every coding-agent session hatches its own ASCII creature, and the creature gets visibly sadder the longer you leave things uncommitted.
+* [termagitchi](https://github.com/TevvvB/termagitchi) ⭐ 18 | 🐛 3 | 🌐 Go | 📅 2026-10-16 - A gacha machine bolted to `git status`: every coding-agent session hatches its own ASCII creature, and the creature gets visibly sadder the longer you leave things uncommitted.
 * [codeometer](https://github.com/rafael-santiago/codeometer) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2020-07-16 - It measures your code in real world units of measurement also comparing the evaluated distance to famous places and monuments. Codeometer supports plain code files, zipped files and remote git repos. Doing all stuff as a straightforward command line tool or as a web tool through its embedded httpd (tls supported).
 
 ## Haskell
@@ -62,7 +62,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 * [not-paid.js](https://github.com/kleampa/not-paid) ⭐ 15,703 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-08 - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
 * [jsFuck](https://github.com/aemkei/jsfuck) ⭐ 8,602 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10
 * [Elevator.js](https://github.com/tholman/elevator.js) ⭐ 6,632 | 🐛 19 | 🌐 JavaScript | 📅 2020-06-26 - Finally, a "back to top" button that behaves like a real elevator.
-* [is-thirteen](https://github.com/jezen/is-thirteen) ⭐ 6,174 | 🐛 419 | 🌐 JavaScript | 📅 2026-01-29 - Check if a number is equal to 13.
+* [is-thirteen](https://github.com/jezen/is-thirteen) ⭐ 6,173 | 🐛 419 | 🌐 JavaScript | 📅 2026-01-29 - Check if a number is equal to 13.
 * [FuckitJS](https://github.com/mattdiamond/fuckitjs) ⭐ 4,183 | 🐛 35 | 🌐 JavaScript | 📅 2023-07-01 - JavaScript Error Steamroller.
 * [Echochamber.js](https://github.com/tessalt/echo-chamber-js) ⭐ 4,105 | 🐛 12 | 🌐 JavaScript | 📅 2019-05-10 - Commenting without the comments - providing a single-sided user comments just stored in local storage.
 * [fartscroll.js](https://github.com/theonion/fartscroll.js) ⚠️ Archived - Everyone farts. And now your web pages can too.
@@ -119,7 +119,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## SaaS
 
 * [Fuck off as a Service](https://github.com/tomdionysus/foaas) ⭐ 3,060 | 🐛 12 | 🌐 JavaScript | 📅 2024-11-20 - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
-* [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) ⭐ 364 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-13 - Corporate bullshit generator that randomly picks out phrases, which can help your application get ahead in an industry where spin, buzzwords and vagueness reign supreme.
+* [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) ⭐ 365 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-13 - Corporate bullshit generator that randomly picks out phrases, which can help your application get ahead in an industry where spin, buzzwords and vagueness reign supreme.
 * [eafd](https://github.com/doesdev/eafd) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2019-08-01 - When you just don't have the words. Snoop does. Vulgar audio generator (or not vulgar, just a 🦃)
 * ~~[Booleans as a Service](https://booleans.io/) - Create, read, update & delete boolean.~~
 * [/dev/null as a Service](https://devnull-as-a-service.com) - The first DaaS provider.
@@ -137,12 +137,12 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## CLI
 
-* [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) ⭐ 190,031 | 🐛 297 | 🌐 Shell | 📅 2026-10-13 - A Chuck Norris fortune plugin for ZSH.
-* [genact](https://github.com/svenstaro/genact) ⭐ 12,224 | 🐛 14 | 🌐 Rust | 📅 2026-10-01 - 🌀 A nonsense activity generator for your shell.
+* [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) ⭐ 190,044 | 🐛 297 | 🌐 Shell | 📅 2026-10-13 - A Chuck Norris fortune plugin for ZSH.
+* [genact](https://github.com/svenstaro/genact) ⭐ 12,226 | 🐛 14 | 🌐 Rust | 📅 2026-10-01 - 🌀 A nonsense activity generator for your shell.
 * [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,718 | 🐛 21 | 🌐 Shell | 📅 2023-12-04 - Blame someone else for your bad code.
 * [No More Secrets](https://github.com/bartobri/no-more-secrets) ⭐ 7,826 | 🐛 1 | 🌐 C | 📅 2025-12-13 - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 * [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,587 | 🐛 33 | 🌐 Ruby | 📅 2024-03-05 - Rainbows and unicorns!
-* [cmatrix](https://github.com/abishekvashok/cmatrix) ⭐ 5,277 | 🐛 91 | 🌐 C | 📅 2024-08-21 - Make it digital rain in your terminal like The Matrix.
+* [cmatrix](https://github.com/abishekvashok/cmatrix) ⭐ 5,279 | 🐛 91 | 🌐 C | 📅 2024-08-21 - Make it digital rain in your terminal like The Matrix.
 * [lolcommits](https://github.com/mroth/lolcommits) ⭐ 4,820 | 🐛 40 | 🌐 Ruby | 📅 2026-09-14 - Git-based selfies for software developers.
 * [sl](https://github.com/mtoyoda/sl) ⭐ 3,346 | 🐛 37 | 🌐 C | 📅 2024-06-11 - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh) ⭐ 3,044 | 🐛 14 | 🌐 Shell | 📅 2024-08-12 - Animated pipes terminal screensaver.
@@ -159,7 +159,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## DevOps
 
-* [No Code](https://github.com/kelseyhightower/nocode) ⭐ 65,914 | 🐛 4,723 | 🌐 Dockerfile | 📅 2024-08-07 - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+* [No Code](https://github.com/kelseyhightower/nocode) ⭐ 65,915 | 🐛 4,723 | 🌐 Dockerfile | 📅 2024-08-07 - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 * [Volkswagen](https://github.com/auchenberg/volkswagen) ⭐ 15,463 | 🐛 23 | 🌐 JavaScript | 📅 2026-02-27 - 🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 * [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) ⭐ 1,182 | 🐛 17 | 🌐 Go | 📅 2024-05-28 - The Terraform plugin for the Dominos Pizza provider.
 
@@ -177,4 +177,4 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
