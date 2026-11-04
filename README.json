@@ -270,7 +270,7 @@
             "open_issues": 548,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23933,
+            "stars": 23936,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -297,7 +297,7 @@
             "open_issues": 10,
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15698,
+            "stars": 15696,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -723,7 +723,7 @@
             "open_issues": 12,
             "owner": "hugues-m",
             "repo": "phpunit-vw",
-            "stars": 1759,
+            "stars": 1758,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1181,7 +1181,7 @@
             "open_issues": 2,
             "owner": "sameerkumar18",
             "repo": "corporate-bs-generator-api",
-            "stars": 367,
+            "stars": 364,
             "topics": [
               "api",
               "bullshit",
@@ -1304,10 +1304,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-11-02T08:23:34Z",
-            "open_issues": 313,
+            "open_issues": 314,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190297,
+            "stars": 190316,
             "topics": [
               "cli",
               "cli-app",
@@ -1341,10 +1341,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-02T01:53:50Z",
-            "open_issues": 13,
+            "open_issues": 15,
             "owner": "svenstaro",
             "repo": "genact",
-            "stars": 12226,
+            "stars": 12227,
             "topics": [
               "cli",
               "fake",
@@ -1373,7 +1373,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11723,
+            "stars": 11725,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1446,7 +1446,7 @@
             "open_issues": 91,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5297,
+            "stars": 5298,
             "topics": [
               "c",
               "matrix",
@@ -1519,7 +1519,7 @@
             "open_issues": 14,
             "owner": "pipeseroni",
             "repo": "pipes.sh",
-            "stars": 3044,
+            "stars": 3045,
             "topics": [
               "bash",
               "pipes-sh",
@@ -1566,7 +1566,7 @@
             "open_issues": 23,
             "owner": "alexdantas",
             "repo": "nSnake",
-            "stars": 229,
+            "stars": 228,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1800,7 +1800,7 @@
             "open_issues": 4725,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 66001,
+            "stars": 65998,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1922,7 +1922,7 @@
             "open_issues": 4,
             "owner": "hugomd",
             "repo": "parrot.live",
-            "stars": 4488,
+            "stars": 4491,
             "topics": [
               "curl",
               "parrot",
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:25:17.496Z",
+    "last_updated": "2026-11-04T20:40:31.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
