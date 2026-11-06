@@ -32,7 +32,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## CSS
 
-* [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,575 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
+* [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,574 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
 * [DICSS](https://github.com/letsgetrandy/DICSS) ⭐ 1,343 | 🐛 31 | 🌐 JavaScript | 📅 2015-12-18 - Directly injected CSS.
 
 ## Elixir
@@ -60,7 +60,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## JavaScript
 
 * [not-paid.js](https://github.com/kleampa/not-paid) ⭐ 15,694 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-29 - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
-* [jsFuck](https://github.com/aemkei/jsfuck) ⭐ 8,599 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10
+* [jsFuck](https://github.com/aemkei/jsfuck) ⭐ 8,598 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10
 * [Elevator.js](https://github.com/tholman/elevator.js) ⭐ 6,633 | 🐛 19 | 🌐 JavaScript | 📅 2020-06-26 - Finally, a "back to top" button that behaves like a real elevator.
 * [is-thirteen](https://github.com/jezen/is-thirteen) ⭐ 6,176 | 🐛 418 | 🌐 JavaScript | 📅 2026-01-29 - Check if a number is equal to 13.
 * [FuckitJS](https://github.com/mattdiamond/fuckitjs) ⭐ 4,181 | 🐛 35 | 🌐 JavaScript | 📅 2023-07-01 - JavaScript Error Steamroller.
@@ -109,8 +109,8 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Esoteric languages
 
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) ⚠️ Archived - Make Python great again.
-* [ArnoldC](https://github.com/lhartikk/ArnoldC) ⭐ 6,884 | 🐛 73 | 🌐 Scala | 📅 2024-01-31 - Arnold Schwarzenegger based programming language.
-* [Vigil](https://github.com/munificent/vigil) ⭐ 3,038 | 🐛 26 | 🌐 Python | 📅 2022-09-26 - Vigil, the eternal morally vigilant programming language.
+* [ArnoldC](https://github.com/lhartikk/ArnoldC) ⭐ 6,882 | 🐛 73 | 🌐 Scala | 📅 2024-01-31 - Arnold Schwarzenegger based programming language.
+* [Vigil](https://github.com/munificent/vigil) ⭐ 3,039 | 🐛 26 | 🌐 Python | 📅 2022-09-26 - Vigil, the eternal morally vigilant programming language.
 * [strategic-communication](https://github.com/rotoclone/strategic-communication) ⭐ 312 | 🐛 3 | 🌐 Rust | 📅 2020-12-20 - A best-of-breed language with a holistic approach to moving the needle.
 * [Spooky](https://github.com/ftripier/spookyc) ⭐ 152 | 🐛 3 | 🌐 OCaml | 📅 2018-11-09 - The Programming Language of Fear 🌚.
 * [Rockstar](https://github.com/dylanbeattie/rockstar) ⭐ 91 | 🐛 0 | 🌐 JavaScript | 📅 2021-12-15 - A dynamically typed computer programming language, designed for creating programs that are also song lyrics.
@@ -119,7 +119,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## SaaS
 
 * [Fuck off as a Service](https://github.com/tomdionysus/foaas) ⭐ 3,062 | 🐛 12 | 🌐 JavaScript | 📅 2024-11-20 - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
-* [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) ⭐ 365 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-13 - Corporate bullshit generator that randomly picks out phrases, which can help your application get ahead in an industry where spin, buzzwords and vagueness reign supreme.
+* [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) ⭐ 366 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-13 - Corporate bullshit generator that randomly picks out phrases, which can help your application get ahead in an industry where spin, buzzwords and vagueness reign supreme.
 * [eafd](https://github.com/doesdev/eafd) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2019-08-01 - When you just don't have the words. Snoop does. Vulgar audio generator (or not vulgar, just a 🦃)
 * ~~[Booleans as a Service](https://booleans.io/) - Create, read, update & delete boolean.~~
 * [/dev/null as a Service](https://devnull-as-a-service.com) - The first DaaS provider.
@@ -137,15 +137,15 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## CLI
 
-* [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) ⭐ 190,325 | 🐛 316 | 🌐 Shell | 📅 2026-11-02 - A Chuck Norris fortune plugin for ZSH.
-* [genact](https://github.com/svenstaro/genact) ⭐ 12,226 | 🐛 15 | 🌐 Rust | 📅 2026-11-02 - 🌀 A nonsense activity generator for your shell.
-* [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,726 | 🐛 21 | 🌐 Shell | 📅 2023-12-04 - Blame someone else for your bad code.
+* [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) ⭐ 190,333 | 🐛 311 | 🌐 Shell | 📅 2026-11-06 - A Chuck Norris fortune plugin for ZSH.
+* [genact](https://github.com/svenstaro/genact) ⭐ 12,223 | 🐛 15 | 🌐 Rust | 📅 2026-11-02 - 🌀 A nonsense activity generator for your shell.
+* [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,724 | 🐛 21 | 🌐 Shell | 📅 2023-12-04 - Blame someone else for your bad code.
 * [No More Secrets](https://github.com/bartobri/no-more-secrets) ⭐ 7,829 | 🐛 1 | 🌐 C | 📅 2026-11-05 - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
-* [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,583 | 🐛 32 | 🌐 Ruby | 📅 2024-03-05 - Rainbows and unicorns!
+* [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,581 | 🐛 32 | 🌐 Ruby | 📅 2024-03-05 - Rainbows and unicorns!
 * [cmatrix](https://github.com/abishekvashok/cmatrix) ⭐ 5,301 | 🐛 91 | 🌐 C | 📅 2024-08-21 - Make it digital rain in your terminal like The Matrix.
 * [lolcommits](https://github.com/mroth/lolcommits) ⭐ 4,818 | 🐛 40 | 🌐 Ruby | 📅 2026-10-29 - Git-based selfies for software developers.
-* [sl](https://github.com/mtoyoda/sl) ⭐ 3,352 | 🐛 37 | 🌐 C | 📅 2024-06-11 - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
-* [pipes.sh](https://github.com/pipeseroni/pipes.sh) ⭐ 3,047 | 🐛 14 | 🌐 Shell | 📅 2024-08-12 - Animated pipes terminal screensaver.
+* [sl](https://github.com/mtoyoda/sl) ⭐ 3,353 | 🐛 37 | 🌐 C | 📅 2024-06-11 - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
+* [pipes.sh](https://github.com/pipeseroni/pipes.sh) ⭐ 3,049 | 🐛 14 | 🌐 Shell | 📅 2024-08-12 - Animated pipes terminal screensaver.
 * [evil.sh](https://github.com/mathiasbynens/evil.sh) ⭐ 2,206 | 🐛 42 | 🌐 Shell | 📅 2023-04-25 - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 * [nSnake](https://github.com/alexdantas/nSnake) ⭐ 228 | 🐛 23 | 🌐 C++ | 📅 2023-09-27 - Snake game in terminal!
 * [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) ⭐ 207 | 🐛 3 | 🌐 Shell | 📅 2018-02-16 - Boost your "productivity" to the max! A productivity suite made for slackers by slackers.
@@ -159,8 +159,8 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## DevOps
 
-* [No Code](https://github.com/kelseyhightower/nocode) ⭐ 66,002 | 🐛 4,725 | 🌐 Dockerfile | 📅 2024-08-07 - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-* [Volkswagen](https://github.com/auchenberg/volkswagen) ⭐ 15,465 | 🐛 23 | 🌐 JavaScript | 📅 2026-02-27 - 🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.
+* [No Code](https://github.com/kelseyhightower/nocode) ⭐ 66,008 | 🐛 4,727 | 🌐 Dockerfile | 📅 2024-08-07 - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+* [Volkswagen](https://github.com/auchenberg/volkswagen) ⭐ 15,463 | 🐛 23 | 🌐 JavaScript | 📅 2026-02-27 - 🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 * [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) ⭐ 1,182 | 🐛 17 | 🌐 Go | 📅 2024-05-28 - The Terraform plugin for the Dominos Pizza provider.
 
 ## Miscellaneous
@@ -177,4 +177,4 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._

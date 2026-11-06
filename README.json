@@ -74,7 +74,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6575,
+            "stars": 6574,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -318,7 +318,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8599,
+            "stars": 8598,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -985,7 +985,7 @@
             "open_issues": 5,
             "owner": "samshadwell",
             "repo": "TrumpScript",
-            "stars": 7577,
+            "stars": 7576,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1006,7 +1006,7 @@
             "open_issues": 73,
             "owner": "lhartikk",
             "repo": "ArnoldC",
-            "stars": 6884,
+            "stars": 6882,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1027,7 +1027,7 @@
             "open_issues": 26,
             "owner": "munificent",
             "repo": "vigil",
-            "stars": 3038,
+            "stars": 3039,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1181,7 +1181,7 @@
             "open_issues": 2,
             "owner": "sameerkumar18",
             "repo": "corporate-bs-generator-api",
-            "stars": 365,
+            "stars": 366,
             "topics": [
               "api",
               "bullshit",
@@ -1303,11 +1303,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-02T08:23:34Z",
-            "open_issues": 316,
+            "last_commit": "2026-11-06T13:42:13Z",
+            "open_issues": 311,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190325,
+            "stars": 190333,
             "topics": [
               "cli",
               "cli-app",
@@ -1344,7 +1344,7 @@
             "open_issues": 15,
             "owner": "svenstaro",
             "repo": "genact",
-            "stars": 12226,
+            "stars": 12223,
             "topics": [
               "cli",
               "fake",
@@ -1373,7 +1373,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11726,
+            "stars": 11724,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1422,7 +1422,7 @@
             "open_issues": 32,
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6583,
+            "stars": 6581,
             "topics": [
               "cli",
               "essentials"
@@ -1498,7 +1498,7 @@
             "open_issues": 37,
             "owner": "mtoyoda",
             "repo": "sl",
-            "stars": 3352,
+            "stars": 3353,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1519,7 +1519,7 @@
             "open_issues": 14,
             "owner": "pipeseroni",
             "repo": "pipes.sh",
-            "stars": 3047,
+            "stars": 3049,
             "topics": [
               "bash",
               "pipes-sh",
@@ -1797,10 +1797,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4725,
+            "open_issues": 4727,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 66002,
+            "stars": 66008,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1821,7 +1821,7 @@
             "open_issues": 23,
             "owner": "auchenberg",
             "repo": "volkswagen",
-            "stars": 15465,
+            "stars": 15463,
             "topics": [
               "cheat",
               "ci-server",
@@ -1877,7 +1877,7 @@
             "open_issues": 220,
             "owner": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
             "repo": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-            "stars": 10542,
+            "stars": 10537,
             "topics": [
               "e",
               "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:56:30.398Z",
+    "last_updated": "2026-11-06T20:16:00.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
