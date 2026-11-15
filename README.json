@@ -270,7 +270,7 @@
             "open_issues": 549,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23944,
+            "stars": 23945,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -297,7 +297,7 @@
             "open_issues": 10,
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15695,
+            "stars": 15694,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -318,7 +318,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8600,
+            "stars": 8601,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -507,7 +507,7 @@
             "open_issues": 6,
             "owner": "jlengstorf",
             "repo": "eslint-plugin-replyguy",
-            "stars": 417,
+            "stars": 418,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1303,11 +1303,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-09T12:36:12Z",
-            "open_issues": 311,
+            "last_commit": "2026-11-15T12:52:39Z",
+            "open_issues": 313,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190617,
+            "stars": 190632,
             "topics": [
               "cli",
               "cli-app",
@@ -1344,7 +1344,7 @@
             "open_issues": 15,
             "owner": "svenstaro",
             "repo": "genact",
-            "stars": 12231,
+            "stars": 12232,
             "topics": [
               "cli",
               "fake",
@@ -1422,7 +1422,7 @@
             "open_issues": 32,
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6592,
+            "stars": 6593,
             "topics": [
               "cli",
               "essentials"
@@ -1446,7 +1446,7 @@
             "open_issues": 91,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5309,
+            "stars": 5311,
             "topics": [
               "c",
               "matrix",
@@ -1498,7 +1498,7 @@
             "open_issues": 37,
             "owner": "mtoyoda",
             "repo": "sl",
-            "stars": 3360,
+            "stars": 3361,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1519,7 +1519,7 @@
             "open_issues": 14,
             "owner": "pipeseroni",
             "repo": "pipes.sh",
-            "stars": 3055,
+            "stars": 3056,
             "topics": [
               "bash",
               "pipes-sh",
@@ -1545,7 +1545,7 @@
             "open_issues": 42,
             "owner": "mathiasbynens",
             "repo": "evil.sh",
-            "stars": 2205,
+            "stars": 2206,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1797,10 +1797,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4730,
+            "open_issues": 4729,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 66056,
+            "stars": 66058,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1922,7 +1922,7 @@
             "open_issues": 4,
             "owner": "hugomd",
             "repo": "parrot.live",
-            "stars": 4495,
+            "stars": 4496,
             "topics": [
               "curl",
               "parrot",
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:57:09.251Z",
+    "last_updated": "2026-11-15T19:33:48.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
