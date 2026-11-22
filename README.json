@@ -270,7 +270,7 @@
             "open_issues": 550,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23949,
+            "stars": 23950,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1303,11 +1303,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-16T12:08:14Z",
-            "open_issues": 319,
+            "last_commit": "2026-11-22T18:18:49Z",
+            "open_issues": 317,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190724,
+            "stars": 190837,
             "topics": [
               "cli",
               "cli-app",
@@ -1373,7 +1373,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11731,
+            "stars": 11730,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1394,7 +1394,7 @@
             "open_issues": 1,
             "owner": "bartobri",
             "repo": "no-more-secrets",
-            "stars": 7840,
+            "stars": 7841,
             "topics": [
               "effect",
               "hacker",
@@ -1422,7 +1422,7 @@
             "open_issues": 32,
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6598,
+            "stars": 6599,
             "topics": [
               "cli",
               "essentials"
@@ -1446,7 +1446,7 @@
             "open_issues": 91,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5315,
+            "stars": 5317,
             "topics": [
               "c",
               "matrix",
@@ -1519,7 +1519,7 @@
             "open_issues": 14,
             "owner": "pipeseroni",
             "repo": "pipes.sh",
-            "stars": 3059,
+            "stars": 3060,
             "topics": [
               "bash",
               "pipes-sh",
@@ -1797,10 +1797,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4734,
+            "open_issues": 4733,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 66176,
+            "stars": 66204,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1901,7 +1901,7 @@
             "open_issues": 60,
             "owner": "philipl",
             "repo": "pifs",
-            "stars": 7540,
+            "stars": 7541,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:22:31.553Z",
+    "last_updated": "2026-11-22T20:35:24.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
