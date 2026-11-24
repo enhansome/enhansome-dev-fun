@@ -139,7 +139,7 @@
             "id": 1323379669,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-20T18:55:29Z",
+            "last_commit": "2026-11-24T18:54:18Z",
             "open_issues": 3,
             "owner": "TevvvB",
             "repo": "termagitchi",
@@ -270,7 +270,7 @@
             "open_issues": 550,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23950,
+            "stars": 23948,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1303,11 +1303,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-24T00:45:10Z",
-            "open_issues": 318,
+            "last_commit": "2026-11-24T23:21:40Z",
+            "open_issues": 222,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190785,
+            "stars": 190826,
             "topics": [
               "cli",
               "cli-app",
@@ -1344,7 +1344,7 @@
             "open_issues": 15,
             "owner": "svenstaro",
             "repo": "genact",
-            "stars": 12248,
+            "stars": 12247,
             "topics": [
               "cli",
               "fake",
@@ -1446,7 +1446,7 @@
             "open_issues": 91,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5318,
+            "stars": 5319,
             "topics": [
               "c",
               "matrix",
@@ -1498,7 +1498,7 @@
             "open_issues": 37,
             "owner": "mtoyoda",
             "repo": "sl",
-            "stars": 3360,
+            "stars": 3361,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1800,7 +1800,7 @@
             "open_issues": 4732,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 66204,
+            "stars": 66208,
             "topics": []
           },
           "first_seen": "2026-08-28T23:25:03.998Z"
@@ -1821,7 +1821,7 @@
             "open_issues": 23,
             "owner": "auchenberg",
             "repo": "volkswagen",
-            "stars": 15467,
+            "stars": 15472,
             "topics": [
               "cheat",
               "ci-server",
@@ -1922,7 +1922,7 @@
             "open_issues": 4,
             "owner": "hugomd",
             "repo": "parrot.live",
-            "stars": 4503,
+            "stars": 4502,
             "topics": [
               "curl",
               "parrot",
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T01:29:13.568Z",
+    "last_updated": "2026-11-24T23:23:46.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.",
